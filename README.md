@@ -1,4 +1,4 @@
-README
+package_processingExample
 ================
 2024-08-15
 
@@ -41,6 +41,7 @@ install.packages("devtools")
 library("devtools")
 install_github("dmhenke/BioPrimeLASSO")
 library(BioPrimeLASSO)
+library(biolasso)
 library(curl)
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
@@ -65,6 +66,7 @@ gene_info <- getBM(
   filters = "hgnc_symbol",
   values = colnames(cnv),
   mart = mart)
+## Refine data
 chrs <- as.character(1:22)
 gene_info <- gene_info[gene_info$chromosome_name %in% chrs, ]
 uniq <- names(which(table(gene_info$hgnc_symbol) == 1))
@@ -83,7 +85,7 @@ GoI <- "EGFR"
 
 ``` r
 # Dependency score resource: demeter2
-y <- na.omit(demeter2[,gene])
+y <- na.omit(demeter2[,GoI])
 
 # Identify 'omic information to test against dependency score: cnv
 X_omic <- na.omit(cnv)
