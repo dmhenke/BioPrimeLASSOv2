@@ -37,7 +37,10 @@ complex interplay of genetic and molecular factors in disease.
 1)  Load library
 
 ``` r
-library(biolasso)
+install.packages("devtools")
+library("devtools")
+install_github("dmhenke/BioPrimeLASSO")
+library(BioPrimeLASSO)
 library(curl)
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
