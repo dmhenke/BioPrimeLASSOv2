@@ -5,10 +5,10 @@ package_processingExample
 ## Bio-primed machine learning to enhance discovery of relevant biomarkers
 
 <p align="middle">
-  <img src="biolasso_overview.png" width="75%"/>
+  <img src="BioPrimeLASSO_overview.png" width="75%"/>
 </p>
 
-## *R library: biolasso*
+## *R library: BioPrimeLASSO*
 
 ## Introduction
 
