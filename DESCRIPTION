@@ -1,4 +1,4 @@
-Package: biolasso
+Package: BioPrimeLASSO
 Type: Package
 Title: Bio-primed machine learning to enhance discovery of relevant biomarkers
 Version: 0.1.0
