@@ -6,7 +6,7 @@ date: "2024-08-15"
 
 # Bio-primed machine learning to enhance discovery of relevant biomarkers
 
-## *R library: biolasso*
+## *R library: BioPrimeLASSO*
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Precision medicine relies on identifying reliable biomarkers for gene dependenci
 
 1)  Load library
 ```{r setup, echo=TRUEALSE}
-library(biolasso)
+library(BioPrimeLASSO)
 ```
 
 2)  Load data
