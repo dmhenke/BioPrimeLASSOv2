@@ -14,13 +14,13 @@
 #' @export
 #'
 #' @examples
-#'  biolasso(scale(X),
+#'  bplasso(scale(X),
 #'   y,
 #'   scores,
 #'   n_folds = 10,
 #'   phi_range = seq(0, 1, length = 30))
 #'
-biolasso <- function(X, y, scores,
+bplasso <- function(X, y, scores,
                      n_folds = 10,
                      phi_range = seq(0, 1, length = 30)){
   # Choose lambda
