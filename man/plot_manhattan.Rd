@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot_manhattan.R
 \name{plot_manhattan}
 \alias{plot_manhattan}
-\title{Manhattan plots of biolasso results}
+\title{Manhattan plots of bioprimelasso results}
 \usage{
 plot_manhattan(gene, resIn, subplotChr = NA, dependency, gene_info, dir_save)
 }
