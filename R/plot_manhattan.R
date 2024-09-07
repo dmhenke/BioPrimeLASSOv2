@@ -1,4 +1,4 @@
-#' Manhattan plots of biolasso results
+#' Manhattan plots of bplasso results
 #'
 #' @param gene Gene symbol. e.g. "EGFR"
 #' @param resIn Path to "results_omic".RData file.

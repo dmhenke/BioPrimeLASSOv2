@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot_manhattan.R
 \name{plot_manhattan}
 \alias{plot_manhattan}
-\title{Manhattan plots of bioprimelasso results}
+\title{Manhattan plots of bplasso results}
 \usage{
 plot_manhattan(gene, resIn, subplotChr = NA, dependency, gene_info, dir_save)
 }
@@ -23,7 +23,7 @@ plot_manhattan(gene, resIn, subplotChr = NA, dependency, gene_info, dir_save)
 Three Manhattan plots are written into the dir_save folder
 }
 \description{
-Manhattan plots of biolasso results
+Manhattan plots of bplasso results
 }
 \examples{
 Gene <- "EGFR"
