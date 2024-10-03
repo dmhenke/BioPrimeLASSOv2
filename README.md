@@ -34,7 +34,7 @@ complex interplay of genetic and molecular factors in disease.
 
 
 Walk-through for the paper's [figure 2](https://htmlpreview.github.io/?https://github.com/dmhenke/BioPrimeLASSO/tree/main/docs/Walkthrough_Figure2.html)
-
+ [MitoTrace reproduces the heteroplamsy reported in Leif's lineage tracing study analysis[1]](https://htmlpreview.github.io/?https://github.com/lkmklsmn/MitoTrace/blob/master/examples/Reproduce_Cell_Leif_et_al.html)
 
 
 
