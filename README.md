@@ -33,11 +33,11 @@ medicine by uncovering novel therapeutic targets and understanding the
 complex interplay of genetic and molecular factors in disease.
 
 
-Walk-through for the paper's [figure 2](https://htmlpreview.github.io/?https://github.com/dmhenke/old_BioPrimeLASSO/tree/main/docs/Walkthrough_Figure2.html)
+Walk-through for the paper's [figure 2](https://htmlpreview.github.io/?https://github.com/dmhenke/old_BioPrimeLASSO/blob/main/docs/Walkthrough_Figure2.html)
 
 [MitoTrace identifies personal variants in SMART-seq2 data data[2]](https://htmlpreview.github.io/?https://github.com/lkmklsmn/MitoTrace/blob/master/examples/Single-Cell-SMART-SEQ2-data.html)
 
- [figure 2](https://htmlpreview.github.io/?https://dmhenke/old_BioPrimeLASSO/tree/main/docs/Walkthrough_Figure2.html)
+
 
 
 
