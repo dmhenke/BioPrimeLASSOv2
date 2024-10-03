@@ -33,7 +33,7 @@ medicine by uncovering novel therapeutic targets and understanding the
 complex interplay of genetic and molecular factors in disease.
 
 
-Walk-through for the paper's [figure 2](https://github.com/dmhenke/BioPrimeLASSO/tree/main/Reproducibility/Walkthrough_Figure2.html)
+Walk-through for the paper's [figure 2](https://htmlpreview.github.io/?https://github.com/dmhenke/BioPrimeLASSO/tree/main/Reproducibility/Walkthrough_Figure2.html)
 
 
 
